@@ -4,7 +4,7 @@
 
  @layer base{
   body{
-    @apply bg-red-200 text-green-600 tracking-wide;
+    @apply bg-[#FFFDD0] text-green-600 tracking-wide;
   }
 
   h1,h2,h3,h4,h5,h6{
